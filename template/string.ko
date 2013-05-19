@@ -1,0 +1,3 @@
+<template testFilter="test">String handler testFilter="test"</template>
+
+<template>String handler no filters</template>

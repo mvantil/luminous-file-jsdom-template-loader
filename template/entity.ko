@@ -1,0 +1,3 @@
+<template testFilter="test">Generic handler testFilter="test"</template>
+
+<template>Generic handler no filters</template>

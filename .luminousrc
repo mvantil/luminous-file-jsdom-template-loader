@@ -1,0 +1,11 @@
+{
+	"modules": {
+		"templateLoader": "../../../lib/luminous-file-jsdom-template-loader.js",
+		"templateRenderer": "../../../test-template-renderer.js"
+	},
+	"templateLoader": {
+        "path": "./template",
+        "extension": "ko",
+        "defaultTemplate": "/entity"
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "name": "luminous-file-jsdom-template-loader",
+  "version": "0.1.0",
+  "description": "=======================",
+  "main": "lib/luminous-file-jsdom-template-loader.js",
+  "dependencies": {
+    "async": "*",
+    "jsdom": "*"
+  },
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+  "scripts": {
+    "test": "jasmine-node --forceexit specs/"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
